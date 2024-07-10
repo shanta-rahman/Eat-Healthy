@@ -122,3 +122,39 @@ h1 {
 .first-card p {
     margin-top: -160px;
 }
+
+.thumbnel {}
+
+.thumbnel p {
+    margin-top: -170px;
+}
+
+.followers {
+    display: flex;
+    /* margin-left: 100px;
+    margin-right: 100px; */
+}
+
+#Eat {
+    background: linear-gradient(to right, #FBA24F, #FF1E1E);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+
+}
+
+.footer {
+    text-align: center;
+    width: 1000px;
+    height: 150px;
+    background-color: black;
+    padding-top: 75px;
+}
+
+.footer p {
+    color: white;
+}
+
+#fresh {
+
+    color: #5B5B5B;
+}
